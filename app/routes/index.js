@@ -11,6 +11,9 @@ export default class IndexRoute extends Route {
 }
 =======
 
-export default Route.extend({
+export default Route.extend({  
+  beforeModel() {
+    this.replaceWith('rentals');
+  }
 });
 >>>>>>> 4b6f375 (adding index route)

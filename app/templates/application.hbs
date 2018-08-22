@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 <div class="container">
   <NavBar />
   <div class="body">
@@ -12,3 +13,25 @@
 
 {{outlet}}
 >>>>>>> 4b75937 (Initial Commit from Ember CLI v3.3.0)
+=======
+<div class="container">
+  <div class="menu">
+    {{#link-to "index"}}
+      <h1>
+        <em>SuperRentals</em>
+      </h1>
+    {{/link-to}}
+    <div class="links">
+      {{#link-to "about" class="menu-about"}}
+        About
+      {{/link-to}}
+      {{#link-to "contact" class="menu-contact"}}
+        Contact
+      {{/link-to}}
+    </div>
+  </div>
+  <div class="body">
+    {{outlet}}
+  </div>
+</div>
+>>>>>>> 362a642 (updated application template, added header nav, removed page links on all pages)
