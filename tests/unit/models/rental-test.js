@@ -1,4 +1,5 @@
 import { module, test } from 'qunit';
+<<<<<<< HEAD
 import { setupTest } from 'super-rentals/tests/helpers';
 
 module('Unit | Model | rental', function (hooks) {
@@ -36,5 +37,17 @@ module('Unit | Model | rental', function (hooks) {
 
     rental.category = 'Estate';
     assert.strictEqual(rental.type, 'Standalone');
+=======
+import { setupTest } from 'ember-qunit';
+
+module('Unit | Model | rental', function(hooks) {
+  setupTest(hooks);
+
+  // Replace this with your real tests.
+  test('it exists', function(assert) {
+    let store = this.owner.lookup('service:store');
+    let model = store.createRecord('rental', {});
+    assert.ok(model);
+>>>>>>> aaa9a3f (adding list filter component, controll and rental model-with tests)
   });
 });
