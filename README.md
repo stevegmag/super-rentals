@@ -1,5 +1,22 @@
 [![This project uses GitHub Actions for continuous integration.](https://github.com/ember-learn/super-rentals/workflows/CI/badge.svg)](https://github.com/ember-learn/super-rentals/actions?query=workflow%3ACI)
 
+---
+## From YouTube Tutorial:
+* [EmberJs Tutorial](https://tutorials.emberjs.com/release/super-rentals/)
+* [Tutorial Repo](https://tutorials.emberjs.com/release/super-rentals/)
+
+### My Repo:
+* [stevegmag/super-rentals](https://github.com/stevegmag/super-rentals)
+* [Local Dir](/Users/steven.gallagher/Documents/__personal/__personal_projects__/_emberjs/ember-super-rentals)
+
+### KEYWORDS:
+* Node
+* Git
+* Yarn
+* Ember CLI
+* Google Chrome
+---
+
 # Super Rentals
 
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy)

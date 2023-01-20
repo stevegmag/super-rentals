@@ -2,7 +2,11 @@
 
 const EmberApp = require('ember-cli/lib/broccoli/ember-app');
 
+<<<<<<< HEAD
 module.exports = function (defaults) {
+=======
+module.exports = function(defaults) {
+>>>>>>> 4b75937 (Initial Commit from Ember CLI v3.3.0)
   let app = new EmberApp(defaults, {
     // Add options here
   });

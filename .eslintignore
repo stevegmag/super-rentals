@@ -8,6 +8,7 @@
 
 # dependencies
 /bower_components/
+<<<<<<< HEAD
 /node_modules/
 
 # misc
@@ -23,3 +24,11 @@
 /package.json.ember-try
 /package-lock.json.ember-try
 /yarn.lock.ember-try
+=======
+
+# misc
+/coverage/
+
+# ember-try
+/.node_modules.ember-try/
+>>>>>>> 4b75937 (Initial Commit from Ember CLI v3.3.0)
