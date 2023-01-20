@@ -24,6 +24,22 @@
 This is a working repository for the Super Rentals tutorial,
 which you can check out at https://guides.emberjs.com/release/tutorial/.
 
+---
+## From YouTube Tutorial:
+* [EmberJs Tutorial](https://tutorials.emberjs.com/release/super-rentals/)
+* [Tutorial Repo](https://tutorials.emberjs.com/release/super-rentals/)
+
+### My Repo:
+* [stevegmag/super-rentals](https://github.com/stevegmag/super-rentals)
+* [Local Dir](/Users/steven.gallagher/Documents/__personal/__personal_projects__/_emberjs/ember-super-rentals)
+
+### KEYWORDS:
+* Node
+* Git
+* Yarn
+* Ember CLI
+* Google Chrome
+---
 ## Prerequisites
 
 You will need the following things properly installed on your computer.
@@ -78,3 +94,6 @@ Specify what it takes to deploy your app.
 * Development Browser Extensions
   * [ember inspector for chrome](https://chrome.google.com/webstore/detail/ember-inspector/bmdblncegkenkacieihfhpjfppoconhi)
   * [ember inspector for firefox](https://addons.mozilla.org/en-US/firefox/addon/ember-inspector/)
+---
+## TODO:
+* [ ] Do something different
