@@ -1,7 +1,7 @@
 [![This project uses GitHub Actions for continuous integration.](https://github.com/ember-learn/super-rentals/workflows/CI/badge.svg)](https://github.com/ember-learn/super-rentals/actions?query=workflow%3ACI)
 
 ---
-## From YouTube Tutorial:
+## From Tutorial:
 * [EmberJs Tutorial](https://tutorials.emberjs.com/release/super-rentals/)
 * [Tutorial Repo](https://tutorials.emberjs.com/release/super-rentals/)
 
