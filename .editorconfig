@@ -4,10 +4,6 @@
 
 root = true
 
-<<<<<<< HEAD
-=======
-
->>>>>>> 4b75937 (Initial Commit from Ember CLI v3.3.0)
 [*]
 end_of_line = lf
 charset = utf-8

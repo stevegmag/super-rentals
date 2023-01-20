@@ -9,14 +9,10 @@
 /node_modules/
 
 # misc
-<<<<<<< HEAD
 /.env*
 /.pnp*
 /.sass-cache
 /.eslintcache
-=======
-/.sass-cache
->>>>>>> 4b75937 (Initial Commit from Ember CLI v3.3.0)
 /connect.lock
 /coverage/
 /libpeerconnection.log
@@ -27,7 +23,6 @@
 # ember-try
 /.node_modules.ember-try/
 /bower.json.ember-try
-<<<<<<< HEAD
 /npm-shrinkwrap.json.ember-try
 /package.json.ember-try
 /package-lock.json.ember-try
@@ -35,6 +30,3 @@
 
 # broccoli-debug
 /DEBUG/
-=======
-/package.json.ember-try
->>>>>>> 4b75937 (Initial Commit from Ember CLI v3.3.0)

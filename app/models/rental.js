@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 import Model, { attr } from '@ember-data/model';
 
 const COMMUNITY_CATEGORIES = ['Condo', 'Townhouse', 'Apartment'];
@@ -21,16 +20,3 @@ export default class RentalModel extends Model {
     }
   }
 }
-=======
-import DS from 'ember-data';
-
-export default DS.Model.extend({  
-  title: DS.attr(),
-  owner: DS.attr(),
-  city: DS.attr(),
-  category: DS.attr(),
-  image: DS.attr(),
-  bedrooms: DS.attr(),
-  description: DS.attr()
-});
->>>>>>> aaa9a3f (adding list filter component, controll and rental model-with tests)
